@@ -7,7 +7,7 @@ body {
 
 /* Header styles */
 header {
-    background-image: url('path/to/your/image.jpg');
+    background-image: url('https://github.com/OnkelKrabbe/krabbdev/blob/gh-pages/KrabbDevLogo.png');
     background-size: cover;
     background-position: center;
     color: white;
