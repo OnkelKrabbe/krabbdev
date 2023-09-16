@@ -7,13 +7,14 @@ body {
 
 /* Header styles */
 header {
-    background-image: url('https://github.com/OnkelKrabbe/krabbdev/blob/gh-pages/KrabbDevLogo.png');
+    background-image: url('https://raw.githubusercontent.com/OnkelKrabbe/krabbdev/gh-pages/KrabbDevLogo.png');
     background-size: cover;
     background-position: center;
     color: white;
     text-align: center;
     padding: 1em;
 }
+
 
 /* Main content */
 main {
