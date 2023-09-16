@@ -6,15 +6,17 @@ body {
     padding: 0;
 }
 
-/* Header-Stile */
+/* Header styles */
 header {
     background-image: url('https://raw.githubusercontent.com/OnkelKrabbe/krabbdev/gh-pages/KrabbDevLogo.png');
-    background-size: cover;
-    background-position: center;
+    background-size: contain;  /* Verändert zu "contain", um Verzerrung zu vermeiden */
+    background-repeat: no-repeat;  /* Verhindert die Wiederholung des Bildes */
+    background-position: center;  /* Zentriert das Bild */
     color: white;
     text-align: center;
     padding: 1em;
 }
+
 
 /* Hauptinhalt */
 main {
