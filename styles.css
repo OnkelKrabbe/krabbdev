@@ -1,25 +1,26 @@
-
-/* Allgemeine Stile */
+/* General styles */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
 }
 
-/* Header-Stile */
+/* Header styles */
 header {
-    background-color: #333;
+    background-image: url('path/to/your/image.jpg');
+    background-size: cover;
+    background-position: center;
     color: white;
     text-align: center;
     padding: 1em;
 }
 
-/* Hauptinhalt */
+/* Main content */
 main {
     padding: 1em;
 }
 
-/* Footer-Stile */
+/* Footer styles */
 footer {
     background-color: #333;
     color: white;
